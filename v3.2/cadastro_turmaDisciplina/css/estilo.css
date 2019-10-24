@@ -1,0 +1,56 @@
+body{
+	
+	background-image: url('../img/3.jpg');
+	background-size: 120% 110%;
+    background-repeat: no-repeat;
+	
+	/*-webkit-filter: blur(10px);
+  	-moz-filter: blur(10px);
+ 	 -o-filter: blur(10px);
+  	-ms-filter: blur(10px);
+ 	 filter: blur(10px);*/
+}
+
+#listaContainer{
+	margin-top: 40px;
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 40px;	
+	width: 900x;
+
+}
+
+#novo{
+	
+	padding-bottom: 20px;
+
+}
+
+#tamanhoContainer{
+
+  	border-style: groove;
+ 	border-width: 5px;
+	border: 20px;
+	border-color: #000000;
+	background-color: #fff;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	padding-right: 50px;
+	padding-left: 50px;	
+	width: 500px;
+	margin-top: 40px;
+}
+
+#botao{
+	text-align: right; 
+	margin-top: 40px;
+	padding-bottom: 50px;
+}
+
+#LoginForm{
+	padding-top: 50px;
+
+}
+

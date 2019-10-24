@@ -1,0 +1,33 @@
+body{
+	
+	background-image: url('../img/fundo.jpg');
+	background-size: 100% 130%;
+}
+
+
+#tamanhoContainer{
+
+  	border-style: groove;
+ 	border-width: 5px;
+	border: 20px;
+	border-color: #000000;
+	background-color: #fff;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	padding-right: 50px;
+	padding-left: 50px;	
+	width: 500px;
+	margin-top: 40px
+}
+
+#botao{
+	text-align: right; 
+	margin-top: 40px;
+	padding-bottom: 50px;
+}
+
+#LoginForm{
+	padding-top: 50px;
+
+}
+
